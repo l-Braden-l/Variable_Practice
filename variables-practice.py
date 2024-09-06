@@ -1,5 +1,5 @@
-# Mike Jones
-# 04 SEP 2024
+# Braden Leach
+# 06 SEP 2024
 # Variables Practice
 
 # Demonstrate in this script that you know how to:
