@@ -40,3 +40,12 @@ print(book_price)
 # Use the print function to print your first name on your screen
 # Use the print function to print the name of the city you live in on your screen
 # Use the print function to print your age on your computer screen
+
+#variables
+first_name = "braden"
+city = "buckley"
+age = 17
+#On Screen
+print(first_name)
+print(city)
+print(age)
